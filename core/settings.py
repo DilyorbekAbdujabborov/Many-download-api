@@ -28,6 +28,7 @@ DEBUG = True  # Or True for development
 ALLOWED_HOSTS = [
     '192.168.1.11',
     '127.0.0.1',
+    '.vercel.app'
 ]
 # Application definition
 
